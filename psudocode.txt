@@ -1,0 +1,13 @@
+take a guess from the user
+take a guess from the computer (created a function that has 3 array options["Rock", "Paper", "Scissors"] randizes the array value, puts that random value into the array and returns the random choice)
+if one has paper and the other has rock
+paper beats rock
+if one has rock and the other has scissors
+Rock beats scissors
+if one has paper and the other has scissors
+paper beats scissors
+else
+tie
+loop the game 5 times
+which ever wins the most rounds is the winner
+
